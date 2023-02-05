@@ -9,3 +9,7 @@
     display:inline-block;
     background: linear-gradient(to left,  #bbd3da 0%,rgba(209, 201, 201, 0) 100%); /* W3C */
   }
+
+  /* @media screen and (max-width:576px) {
+    
+  } */
